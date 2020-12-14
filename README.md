@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aelouarg)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=false&login=aelouarg)](https://github.com/mohouyizme/1337-readme)
 
 <a href="https://github.com/drslax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drslax&theme=light" />
