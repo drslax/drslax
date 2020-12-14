@@ -2,6 +2,13 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aelouarg)](https://github.com/mohouyizme/1337-readme)
 
+<a href="https://github.com/drslax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drslax&theme=light" />
+</a>
+<a href="https://github.com/drslax">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=drslax&show_icons=true&theme=light&line_height=40" alt="DrSlax's github stats"/>
+</a>
+
 <!--
 **drslax/drslax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
