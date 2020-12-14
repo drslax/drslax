@@ -3,10 +3,10 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=false&login=aelouarg)](https://github.com/mohouyizme/1337-readme)
 
 <a href="https://github.com/drslax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drslax&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drslax&theme=dark" />
 </a>
 <a href="https://github.com/drslax">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=drslax&show_icons=true&theme=light&line_height=40" alt="Anas's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=drslax&show_icons=true&theme=dark&line_height=40" alt="Anas's github stats"/>
 </a>
 
 <!--
